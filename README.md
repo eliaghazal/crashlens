@@ -98,14 +98,14 @@ CrashLens is a live, deployed commercial product. The platform is currently in a
 
 ## Team
 
-**Elia Ghazal** — Founder & Lead Engineer
+**Elia Ghazal** — Co-Founder & Lead Engineer
 [GitHub](https://github.com/eliaghazal) · eliaghazal777@gmail.com
 
 ### Collaborators
 
-- [Bassam Farhat](https://github.com/bassamfarhat)
-- [William Ishak](https://github.com/williamishak)
-- [George Khayat](https://github.com/georgekhayat)
+- [Bassam Farhat - Co-Founder](https://github.com/bassamfarhat)
+- [William Ishak - CO-Founder](https://github.com/williamishak)
+- [George Khayat - Co-Founder](https://github.com/georgekhayat)
 
 ---
 
