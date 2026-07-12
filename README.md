@@ -104,7 +104,7 @@ CrashLens is a live, deployed commercial product. The platform is currently in a
 ### Collaborators
 
 - [Bassam Farhat - Co-Founder](https://github.com/bassamfarhat)
-- [William Ishak - CO-Founder](https://github.com/williamishak)
+- [William Ishak - Co-Founder](https://github.com/williamishak)
 - [George Khayat - Co-Founder](https://github.com/georgekhayat)
 
 ---
